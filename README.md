@@ -13,4 +13,3 @@ A fully functional, GUI-based ATM simulator built with Python and Tkinter.
 1. Ensure Python 3.x is installed.
 2. Clone this repository.
 3. Run `python main.py` to start the application. 
-(Note: If the database does not exist, run `python db_init.py` first to generate the tables).
